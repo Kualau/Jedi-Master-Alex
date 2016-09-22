@@ -1,0 +1,17 @@
+{
+  "name": "Jedi-Master-Alex",
+  "description": "Jedi Master Alex",
+  "scripts": {
+  },
+  "env": {
+    "app_57e447986612d964000e154a": ""
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
